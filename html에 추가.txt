@@ -1,0 +1,9 @@
+//html 파일에 추가
+<div id="chat-container">
+  <div id="messages"><h3>Chat</h3></div>
+    <div id="input-container">
+      <input type="text" id="messageInput" placeholder="채팅을 입력하시오..." />
+      <input type="file" id="fileInput" />
+      <button id="fileButton">파일 업로드</button>
+    </div>
+</div>
