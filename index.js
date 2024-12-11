@@ -421,3 +421,5 @@ function addFileLinkToChat(username, fileName, filePath) {
   messages.appendChild(messageElement);
   messages.scrollTop = messages.scrollHeight;
 }
+
+//추가한 부분 349~423
